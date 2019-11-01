@@ -1,6 +1,6 @@
 # familyWallet
 Lenka <>
-František <>
+František <forced>
 
 ## Description
 
